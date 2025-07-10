@@ -1,3 +1,6 @@
+<img width="1235" height="688" alt="Shefali Kaushal GitHub Banner " src="https://github.com/user-attachments/assets/d0257820-f3b4-45b0-8ecc-28c83eade47f" />
+
+
 ## ✨ About Me:
 Hi there, I'm **Shefali Kaushal**, a Web Developer and ML engineer based in India.
 ---
@@ -8,26 +11,12 @@ Fresh juice >>> coffee. Always has been, always will be. 🍹
 ### 🌐 Socials:
 <!-- 🌐 Socials -->
 
-<p align="left">
-  <a href="mailto:shefali2504kaushal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://shefali-kaushal-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6633cc?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://peerlist.io/shefalikaushal" target="_blank">
-    <img src="https://img.shields.io/badge/Peerlist-000000?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
-  </a>
-  <a href="https://www.linkedin.com/in/shefalikaushal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/shefaliu_u" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/shefalikaushal_23/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shefali2504kaushal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6633cc?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://shefali-kaushal-portfolio.netlify.app/)
+[![Peerlist](https://img.shields.io/badge/Peerlist-000000?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/shefalikaushal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shefalikaushal/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shefaliu_u)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shefalikaushal_23/)
 
 
 ---
