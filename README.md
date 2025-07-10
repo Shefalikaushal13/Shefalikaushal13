@@ -1,6 +1,7 @@
 ## ✨ About Me:
 Hi there, I'm **Shefali Kaushal**, a Web Developer and ML engineer based in India.
-##⚡Fun fact:  
+---
+⚡**Fun fact:**  
 Fresh juice > coffee. Always has been, always will be. 🍹
 ---
 
