@@ -38,29 +38,36 @@ Fresh juice >>> coffee. Always has been, always will be. 🍹
 ---
 
 ### 🛠️ Tech Stack:
+
+### 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-ECECEC?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-ECECEC?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-ECECEC?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-ECECEC?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-ECECEC?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-ECECEC?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-ECECEC?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-ECECEC?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="Webflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-ECECEC?style=for-the-badge&logo=next.js&logoColor=000000" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-ECECEC?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Firebase-ECECEC?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Flask-ECECEC?style=for-the-badge&logo=flask&logoColor=000000" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Azure-ECECEC?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4" alt="Azure"/>
-  <img src="https://img.shields.io/badge/GitHub-ECECEC?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-ECECEC?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-ECECEC?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-ECECEC?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Webflow-ECECEC?style=for-the-badge&logo=webflow&logoColor=4353FF" alt="Webflow"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+  
 </p>
+
 
 
 ---
